@@ -1,0 +1,35 @@
+.a{
+    color:#f1ece2;
+}
+.a:hover{
+    color:#f1ece2;
+}
+body{
+    background-color:#5a3e29;
+    color:#f1ece2;
+}
+.navbar{
+    padding:0px;
+    color:#bbc191;
+}
+.feat{
+    border-width:5px;
+    border:solid;
+    border-color:#f1ece2;
+    background-color:#8a5d3d;
+    margin:5px;
+    border-radius:25px;
+}
+.margin{
+    margin-left:50px;
+    margin-top:10px;
+}
+.info{
+    margin-top:50px;
+}
+colors for copypasta
+green-#677423
+Lgreen-#bbc191
+white-#f1ece2
+Lbrown-#8a5d3d
+brown-#5a3e29
